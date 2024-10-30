@@ -1,0 +1,9 @@
+.computy {
+    background: url(../img/logo-svg.svg) no-repeat;
+    padding: 0 0 0 17px!important;
+    background-size: contain;
+}
+.vp-img{
+    max-width: 100%;
+}
+
